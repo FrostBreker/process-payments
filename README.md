@@ -4,7 +4,7 @@ This is a Go backend service that handles payment processing using Stripe. The s
 
 This project was created as part of a YouTube tutorial series. You can follow along with the video to understand the implementation details and concepts behind the payment processing system.
 
-🎥 [Watch the Tutorial on YouTube](#) <!-- Add your YouTube video link here -->
+🎥 [Watch the Tutorial on YouTube](https://youtu.be/f_8q6UwH2u8) <!-- Add your YouTube video link here -->
 
 ## Prerequisites
 
