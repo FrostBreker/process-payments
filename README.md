@@ -78,7 +78,8 @@ The server will start on the configured port (default: 8080).
 
 ## API Documentation
 
-[Add your API endpoints and documentation here]
+- api/stripe/webhooks [POST]: Where the webhooks will be send from stripe.
+- api/stripe/          [GET]: Call this request with a productId query params to get a checkout URL.
 
 ## Development
 
